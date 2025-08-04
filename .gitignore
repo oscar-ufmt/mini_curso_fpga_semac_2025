@@ -1,4 +1,7 @@
 # Ignorar .png e .jpg em qualquer lugar do repositório
 **/*.png
 **/*.jpg
+**/*.PNG
+**/*.cls
+**/*.svg
 
