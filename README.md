@@ -40,10 +40,10 @@ Este repositório contém os materiais e códigos utilizados no minicurso de int
 
 ## ✉️ Contato
 
+## 🎥 Video Tutorial
+
+[Assista no YouTube](https://youtu.be/fgwqvJsnlrE)
+
 Para dúvidas ou sugestões, entre em contato com o organizador do minicurso.
 
 ---
-
-
-
->>>>>>> master
