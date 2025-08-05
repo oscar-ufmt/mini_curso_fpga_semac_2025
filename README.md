@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-# mini_curso_fpga_semac_2025
-=======
 # Minicurso: Projeto Digital com VHDL e FPGA - Carrinho Seguidor de Linha
 
 Este repositório contém os materiais e códigos utilizados no minicurso de introdução ao projeto digital com VHDL, focado na implementação de um carrinho seguidor de linha utilizando a placa **DE0-Nano (Intel/Altera)**.
