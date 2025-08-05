@@ -1,0 +1,15 @@
+# Ignorar .png e .jpg em qualquer lugar do repositório
+**/*.png
+**/*.jpg
+**/*.PNG
+**/*.cls
+**/*.svg
+
+**/*.aux
+**/*.log
+**/*.nav
+**/*.out
+**/*.snm
+**/*.synctex.gz
+**/*.toc
+
